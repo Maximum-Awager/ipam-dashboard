@@ -1,4 +1,4 @@
-# AWAGER IPAM — Internal IP & Subnet Dashboard (Design)
+# IPAM Dashboard — Internal IP & Subnet Dashboard (Design)
 
 A design and deployment write-up for an internal IP Address Management (IPAM)
 dashboard: a single place to see which subnets and IPs are already in use
